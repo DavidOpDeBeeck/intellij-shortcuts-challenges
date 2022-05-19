@@ -275,8 +275,6 @@ import {Component} from '@angular/core';
           </app-challenge>
         </li>
       </ul>
-      <h2 class="text-2xl font-semibold uppercase">Based on</h2>
-      <a class="text-blue-600" href="https://github.com/Sch3lp/ProductivityWithShortcuts">https://github.com/Sch3lp/ProductivityWithShortcuts</a>
     </section>
   `
 })
