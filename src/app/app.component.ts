@@ -3,7 +3,7 @@ import {Component} from '@angular/core';
 @Component({
   selector: 'app-root',
   template: `
-    <section class="flex flex-col space-y-8 justify-center items-center md:w-full lg:w-6/12 xl:w-4/12 m-auto p-4">
+    <section class="flex flex-col space-y-8 justify-center items-center md:w-full lg:w-6/12 m-auto p-4">
       <h1 class="text-6xl p-8">IntelliJ shortcuts challenges</h1>
       <h2 class="text-2xl font-semibold uppercase">Basics</h2>
       <ul class="w-full space-y-2">
